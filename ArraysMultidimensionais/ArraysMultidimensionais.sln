@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysMultidimensionais", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVelha", "JogoDaVelha\JogoDaVelha.csproj", "{CFAA6B54-3C18-4EB1-8FD0-56469C9B9AC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrays", "JaggedArrays\JaggedArrays.csproj", "{09DF941A-90FE-4A1B-9F0B-FFB005F2DBB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CFAA6B54-3C18-4EB1-8FD0-56469C9B9AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFAA6B54-3C18-4EB1-8FD0-56469C9B9AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFAA6B54-3C18-4EB1-8FD0-56469C9B9AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DF941A-90FE-4A1B-9F0B-FFB005F2DBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DF941A-90FE-4A1B-9F0B-FFB005F2DBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DF941A-90FE-4A1B-9F0B-FFB005F2DBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DF941A-90FE-4A1B-9F0B-FFB005F2DBB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.exe
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.deps.json
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.json
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.dev.json
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.dll
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\ref\JaggedArrays.dll
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.pdb
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.csproj.AssemblyReference.cache
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfo.cs
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.dll
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\ref\JaggedArrays.dll
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.pdb
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.genruntimeconfig.cache
