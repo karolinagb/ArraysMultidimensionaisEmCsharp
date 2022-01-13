@@ -1,0 +1,16 @@
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.exe
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.deps.json
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.runtimeconfig.json
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.runtimeconfig.dev.json
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.dll
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\bin\Debug\net5.0\ref\JogoDaVelha.dll
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\bin\Debug\net5.0\JogoDaVelha.pdb
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.csproj.AssemblyReference.cache
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.AssemblyInfo.cs
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.dll
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\ref\JogoDaVelha.dll
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.pdb
+C:\projetos\ArraysMultidimensionaisEmCsharp\ArraysMultidimensionais\JogoDaVelha\obj\Debug\net5.0\JogoDaVelha.genruntimeconfig.cache
